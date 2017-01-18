@@ -1,0 +1,54 @@
+.rce-w-10{
+	width:10%;
+}
+.rce-w-20{
+	width:20%;
+}
+.rce-w-30{
+	width:30%;
+}
+.rce-w-40{
+	width:40%;
+}
+.rce-w-50{
+	width:50%;
+}
+.rce-w-60{
+	width:60%;
+}
+.rce-w-70{
+	width:70%;
+}
+.rce-w-80{
+	width:80%;
+}
+.rce-w-90{
+	width:90%;
+}
+.rce-w-100{
+	width:100%;
+}
+.rce-m-5{
+	margin:	5px;
+}
+.block{
+	display:block;
+	overflow:hidden;
+}
+.center{
+	text-align:center;
+	margin:auto;
+}
+.left{
+	float:left;
+}
+
+.right{
+	float:right;
+}
+.text-left{
+	text-align:left;
+}
+.text-right{
+	text-align:right;
+}
