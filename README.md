@@ -13,13 +13,14 @@ To order it run /api/SessionSubscribe
 1) Setup class is in folder /config/
 2) MySql Database structure  api_sql.tar.gz
 
-Как установить:
-1) Copy project files into your web directory document_root, like this: /home/project_root/api/index.php
-2) Configure database connection /config/
-3) Load all MySql database structure scripts from  api_sql.tar.gz
+
+3) Copy project files into your web directory document_root, like this: /home/project_root/api/index.php
+4) Configure database connection /config/
+5) Load all MySql database structure scripts from  api_sql.tar.gz
 6) Attention! Scripts MUST be load step by step first is _0_....sql   second is 1_....sql  etc.
 7) Debug form class /object/Form.php
 # DEMO
+Demo user email is: demo@lastdayradio.com
 http://lastdayradio.com/api/Table
 http://lastdayradio.com/api/SessionSubscribe
 Order tickets method
